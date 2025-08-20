@@ -12,9 +12,6 @@ This project demonstrates server-side programming using multiple languages (Perl
 - [POST Echo](https://cse135.online/cgi-bin/perl-post-echo.pl) 
 - [General Echo](https://cse135.online/cgi-bin/perl-general-echo.pl) 
 - [Sessioning](https://cse135.online/perl-cgiform.html)
-  ([page 1](https://cse135.online/src/perl-session1.pl))
-  ([page 2](https://cse135.online/src/perl-session2.pl))
-  ([destroy](https://cse135.online/src/perl-destroy-session.pl))
 
 ---
 
@@ -26,10 +23,7 @@ This project demonstrates server-side programming using multiple languages (Perl
 - [POST Echo](https://cse135.online/cgi-bin/c-post-echo.cgi) 
 - [General Echo](https://cse135.online/cgi-bin/c-general-request-echo.cgi)
 - [Sessioning](https://cse135.online/C-cgiform.html)  
-  ([page 1](https://cse135.online/src/c-sessions-1.c))  
-  ([page 2](https://cse135.online/src/c-sessions-2.c))  
-  ([destroy](https://cse135.online/src/c-ds.c))
-
+  
 ---
 
 ### PHP
@@ -40,9 +34,6 @@ This project demonstrates server-side programming using multiple languages (Perl
 - [POST Echo](https://cse135.online/cgi-bin/php-post-echo.php) 
 - [General Echo](https://cse135.online/cgi-bin/php-general-echo.php) 
 - [Sessioning](https://cse135.online/php-cgiform.html)  
-  ([page 1](https://cse135.online/src/php-ss1.php))  
-  ([page 2](https://cse135.online/src/php-ss2.php))  
-  ([destroy](https://cse135.online/src/php-ds.php))
 
 ---
  
@@ -54,10 +45,7 @@ This project demonstrates server-side programming using multiple languages (Perl
 - [POST Echo](https://cse135.online/cgi-bin/py-post-echo.py) 
 - [General Echo](https://cse135.online/cgi-bin/py-general-request-echo.py) 
 - [Sessioning](https://cse135.online/py-cgiform.html)
-  ([page 1](https://cse135.online/src/py-ss1.py))
-  ([page 2](https://cse135.online/src/py-ss2.py))
-  ([destroy](https://cse135.online/src/py-ds.py))
-
+ 
 ---
 
 ### Ruby
@@ -68,9 +56,7 @@ This project demonstrates server-side programming using multiple languages (Perl
 - [POST Echo](https://cse135.online/cgi-bin/rb-post-echo.rb) 
 - [General Echo](https://cse135.online/cgi-bin/rb-general-request-echo.rb) 
 - [Sessioning](https://cse135.online/rb-cgiform.html)  
-  ([page 1](https://cse135.online/src/rb-ss1.rb))  
-  ([page 2](https://cse135.online/src/rb-ss2.rb))  
-  ([destroy](https://cse135.online/src/rb-ds.rb))
+
 
 
 
